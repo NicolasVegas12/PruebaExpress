@@ -1,0 +1,8 @@
+{
+    "nombre" : "Api Rest Express - produccion",
+    "configDB":{
+        "host":"prod-db-server"
+    },
+    "port":3000
+
+}
